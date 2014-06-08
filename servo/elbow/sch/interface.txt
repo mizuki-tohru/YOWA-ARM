@@ -1,0 +1,36 @@
+Name	note
+JP3		Motor Connector
+Pin 
+1		DC Motor
+2		DC Motor
+
+Name	note
+PWR		Power Input
+Pin
+1		Motor Power(5Å`12V)
+2		Driver Power(5v)
+3		GND
+
+Name	note
+RS422	RS422 communication port
+Pin
+1		+5V in
+2		TX +
+3		TX -
+4		RX +
+5		RX -
+6		GND
+
+Name	note
+SWD     STLink Programming port
+1
+2
+3
+4
+5
+6
+
+Name	note
+GNDPAD  testpad GND
+Pin
+1		GND

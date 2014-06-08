@@ -1,0 +1,33 @@
+Parts list
+No			Name			note		number		buyer
+U$7			STM32F030K6					1			Digi-key
+U$1			HEDS9701-C54    Encorder	1			Digi-key
+U$2,U$3		IR2302S						2			Digi-key
+Q5,Q6,Q7,Q8	FDS5680         FET			4			Akizuki(Akihabara)
+U$4			4S69F           Inverter	1			Suzushou(Akihabara)
+U$9			TAR5SB33		REG			1			Akizuki(Akihabara)
+U$8			SN65HVD30       RS422drv	1			Digi-key
+U$10		NX5032GA 8MHz	XTAL		1			Digi-key
+D2,D3       SX34F           diode		2			Akizuki(Akihabara)
+D7       	1SS352         	diode		1			Akizuki(Akihabara)
+LED1,2      LED SMD 0603    led			2			Akizuki(Akihabara)
+C8,C11      7pF SMD 0603	cap			2			Suzushou(Akihabara)
+C23      	0.01uF SMD 0603 cap			1			Sengoku(Akihabara)
+C1,C5,C9,C10,C14,C15,C16,C18,C19,C22
+       		0.1uF SMD 0603  cap			10			Sengoku(Akihabara)
+C20      	1uF SMD 2012	cap			1			Akizuki(Akihabara)
+C21      	4.7uF SMD 2012	cap			1			Akizuki(Akihabara)
+C17      	10uF SMD 3216	cap			1			Akizuki(Akihabara)
+C2,C3       22uF SMD 3225   cap			2			Akizuki(Akihabara)
+C4       	470uF electrolytic cap		1			Sengoku(Akihabara)
+R1,R2,R3,R4,R13,R14,R15
+			22ƒ¶ SMD 0603	regisiter	7			Sengoku(Akihabara)
+R12,R17		33ƒ¶ SMD 0603	regisiter	2			Sengoku(Akihabara)
+R18      	100ƒ¶ SMD 0603	regisiter	1			Sengoku(Akihabara)
+R19			220ƒ¶ SMD 0603	regisiter	1			Sengoku(Akihabara)
+R20,R39  	330ƒ¶ SMD 0603	regisiter	2			Sengoku(Akihabara)
+R9,R16      10kƒ¶ SMD 0603	regisiter	2			Sengoku(Akihabara)
+R11      	100kƒ¶ SMD 0603	regisiter	1			Sengoku(Akihabara)
+
+
+
