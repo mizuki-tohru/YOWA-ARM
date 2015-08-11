@@ -1,0 +1,47 @@
+Parts list
+No				Name			note		number		buyer
+U$12			STM32F373C					1			Digi-key
+U$10			HEDS9701-C54    Encorder	1			Digi-key
+U$5,U$6			IR2302S						2			Digi-key
+Q1,Q2,Q3,Q4		FDS5680         FET			4			Akizuki(Akihabara)
+U$7,U$17,U$18	4S69F           Inverter	3			Suzushou(Akihabara)
+U$8				TAR5SB33		REG			1			Akizuki(Akihabara)
+U$15     		NJM78L05UA      REG         1			Akizuki(Akihabara)
+U$11			SN65HVD30       RS422drv	1			Digi-key
+Q9				NX5032GA 8MHz	XTAL		1			Digi-key
+Q10             32.768kHz       XTAL		1			Akizuki(Akihabara)
+U$13,U$14       ACPL-M60L                   2			Digi-key
+LED3,4      	LED SMD 0603    led			2			Akizuki(Akihabara)
+D1,D4 	      	SX34F           diode		2			Akizuki(Akihabara)
+D5       		1SS352         	diode		1			Akizuki(Akihabara)
+U$16     		ZX62R-B-5P     	USB-MicroB	1			Akizuki(Akihabara)
+L1              BLM21PG331SN    			1			Digi-key(or Akizuki)
+
+C24,C25,C26,C27 7pF SMD 0603	cap			4			Suzushou(Akihabara)
+
+C16,C29,C30,C31,C32
+		    	0.01uF SMD 0603 cap			5			Sengoku(Akihabara)
+C11,C12,C13,C17,C18,C19,C28,C34,C35,C40
+       			0.1uF SMD 0603  cap			10			Sengoku(Akihabara)
+C39      		0.33uF SMD 0603 cap         1			Suzushou(Akihabara)
+C14      		1uF SMD 2012	cap			1			Akizuki(Akihabara)
+C15      		4.7uF SMD 2012	cap			1			Akizuki(Akihabara)
+C33,C41      	10uF SMD 3216	cap			2			Akizuki(Akihabara)
+C6,C7       	22uF SMD 3225   cap			2			Akizuki(Akihabara)
+C8  	     	470uF electrolytic cap		1			Sengoku(Akihabara)
+R5,R6,R7,R8,R11,R19,R21,C21
+				22ƒ¶ SMD 0603	regisiter	8			Sengoku(Akihabara)
+R33,R34			27ƒ¶ SMD 0603	regisiter	2			Sengoku(Akihabara)
+R23,R24			33ƒ¶ SMD 0603	regisiter	2			Sengoku(Akihabara)
+R25	     	 	100ƒ¶ SMD 0603	regisiter	1			Sengoku(Akihabara)
+R28				220ƒ¶ SMD 0603	regisiter	1			Sengoku(Akihabara)
+R26,R27,R29,R30,R31,R32
+			  	330ƒ¶ SMD 0603	regisiter	6			Sengoku(Akihabara)
+R36,R37			470ƒ¶ SMD 0603	regisiter	2			Sengoku(Akihabara)
+R35				1.5kƒ¶ SMD 0603	regisiter	1			Sengoku(Akihabara)
+R1,R10,R22      10kƒ¶ SMD 0603	regisiter	3			Sengoku(Akihabara)
+
+
+
+
+
