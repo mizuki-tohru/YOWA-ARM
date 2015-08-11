@@ -1,5 +1,5 @@
 Name	note
-JP3		Motor Connector
+JP1		Motor Connector
 Pin 
 1		DC Motor
 2		DC Motor
@@ -12,14 +12,12 @@ Pin
 3		GND
 
 Name	note
-RS422	RS422 communication port
+RS485	RS485 communication port
 Pin
 1		+5V in
-2		TX +
-3		TX -
-4		RX +
-5		RX -
-6		GND
+2		TRX +
+3		TRX -
+4		GND
 
 Name	note
 SWD     STLink Programming port

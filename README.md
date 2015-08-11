@@ -1,4 +1,5 @@
 YOWA-ARM
+========
 
 YOWA-ARM (Weak arm) is a robotic arm that can be used in the side of the human. No strength to hurt a person, this is a weak arm. This can not lift heavy objects. but, for example, push of a button work, only has a light work, is available for these. 
 Inexpensive, but YOWA-ARM is a robot arm that could work. It has a working radius of the length of the human arm, and in harmony with the work environment for human beings. YOWA-ARM is not a toy. However, it is very inexpensive.
@@ -10,6 +11,7 @@ There is only output of 80 watts or less, and meets the safety measures each. Ma
 Also, as a safety measure, It install a sensor for detecting a human body around the arm tip. Then, the arm will decelerate to avoid the rapid collision of the human body.
 Exposes all the design data, YOWA-ARM can be manufactured by anyone.
 
+![](Structure/DSC01603a.jpg)
 
 　YOWA-ARM(よわアーム)は、人間のそばで使えるロボットアームです。人を傷つけるような強さの無い、弱いアームです。重いものを持つことは出来ませんが、ちょっとボタンを押すだけ、とか、ちょっとライトを持っているだけ、といった作業は出来ます。
 　YOWA-ARMはできるだけ安価に、でも仕事ができるロボットアームとして設計されました。人間の腕の長さの作業半径を持ち、人間用の作業環境にそのまま調和します。YOWA-ARMはオモチャじゃないロボットアームとしては破格に安価です。
